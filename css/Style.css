@@ -1,0 +1,73 @@
+.bg {
+    background: url('../background2.jpg') no-repeat fixed;
+    width: 100%;
+    height: 100vh;
+}
+
+.form-conatiner {
+    padding: 40px 40px;
+    margin-top: 20vh;
+}
+
+.btn-blue {
+    color: #fff;
+    background-color: #0976bb;
+    border-color: #0976bb;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: url('../background2.jpg') fixed;
+    width: 100%;
+    height: 100vh;
+    ;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 40px;
+    color: black;
+}
+
+h3 {
+    font-size: 25px;
+    color: black;
+}
+
+.col-md-6 {
+    margin-top: 80px;
+}
+
+.col-md-5 {
+    margin-top: 80px;
+    box-shadow: -1px 1px 60px 10px black;
+    background: rgba(80, 77, 77, 0.274)
+}
+
+.label {
+    font-weight: normal;
+    margin-top: 20px;
+    color: black;
+    font-size: 19px;
+}
+
+.form-control {
+    background: transparent;
+    border-radius: 0px;
+    border: 0px;
+    border-bottom: 1px solid black;
+    font-size: 18px;
+    margin-top: 15px;
+    height: 40px;
+}
+
+textarea {
+    background: transparent;
+    color: black;
+}
